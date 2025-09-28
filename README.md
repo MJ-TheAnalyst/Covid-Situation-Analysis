@@ -64,6 +64,17 @@ The analysis focused on exploring global COVID-19 trends using SQL queries. We e
 
 ### 3. Data Visualization 
 
+<img width="1856" height="755" alt="Dashboard 1" src="https://github.com/user-attachments/assets/4fce089d-6e6f-404f-bb22-a52d0685e944" />
+
+The visualization provided us with key insights from the analysis, these include:
+1. The global impact of the Covid 19 virus is 150M+ cases, 3.18M deaths and ~2.1% global death rate.
+2. Europe recorded the highest death count, followed by North & South America; Africa and Oceania had the lowest.
+3. The U.S. and Europe showed the highest infection percentages, while Africa and Oceania remained low.
+4. The U.S. experienced the steepest growth in infections, with the UK and Mexico also significant but lower; China’s actual cases stayed low compared to estimates.
+
+These visuals reflect SQL queries analyzing cases vs deaths, infections vs population, and continent-level breakdowns, making global and regional COVID-19 impacts clear.
+
+
 
 ## Key insights/ Results
 From the exploratory analysis, several insights emerged:
@@ -112,3 +123,4 @@ Some of the challenges encountered while working with the dataset includes:
 [Download-Covid-Vaccination-Dataset](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/CovidVaccinations.xlsx)
 
 [Download-covid-Death](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/CovidDeaths.xlsx)
+[Tabkeau visualization](https://public.tableau.com/views/CovidAnalysisDashboard_17590705999550/Dashboard1?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link)
