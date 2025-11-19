@@ -43,9 +43,11 @@ and is regularly updated to reflect the global COVID-19 situation wwhich is rele
 
 - Imported the CSV files into SQL Server, making adjustments such as:
 
-A. Converting data types (e.g., dates, numerics)
-B. Allowing/handling NULL values where appropriate
-C. Ensuring the schema was standardized for querying
+    A. Converting data types (e.g., dates, numerics
+
+    B. Allowing/handling NULL values where appropriate
+
+    C. Ensuring the schema was standardized for querying
 
 ### 2. Exploratory Analysis
 
