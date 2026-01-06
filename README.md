@@ -14,7 +14,7 @@
 ## Project Overview
 This project analyzes Global Covid 19 data to provide key insights on it's impact and casualties in affected countries. It Focuses on Showing the impact of infection, mortality and vaccination in affected countries all over the world.
 
-## Objective
+## Objectives
 Using SQL queries, I examined:
 
 - The relationship between total cases, deaths, and population to assess infection and mortality rates.
