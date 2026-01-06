@@ -1,4 +1,4 @@
-# Covid Situation Anaysis
+# Covid Situational Anaysis
 
 ## Table of content
 
